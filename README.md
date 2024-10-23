@@ -1,3 +1,5 @@
+WEEK-7: https://github.com/2303A52367/23CSBTB39-40/blob/main/Assignment_7.ipynb                  
+WEEK-6: 
 WEEK-5: https://github.com/2303A52367/23CSBTB39-40/blob/main/Assignment_5.ipynb          
 WEEK-4: https://github.com/2303A52367/23CSBTB39-40/blob/main/Assignment_4.ipynb     
 WEEK-3: https://github.com/2303A52367/23CSBTB39-40/blob/main/Assignment_3.ipynb     
